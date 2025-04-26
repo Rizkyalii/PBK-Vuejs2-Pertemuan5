@@ -86,4 +86,8 @@ onMounted( () =>{
 </template>
 
 <style>
+h1{
+    padding: 100px;
+}
+
 </style>
