@@ -90,4 +90,8 @@ h1{
     padding: 100px;
 }
 
+p{
+    color: red;
+}
+
 </style>
